@@ -3,6 +3,8 @@
 Employee Data Inventory Application is a gradle project which can be import directly as a eclipse project and can be run directly 
 as Eclipse project. 
 
+or else create custom properties file based on the applciaiton properties and then it can be passed --spring.config.location=classpath:/application-local.properties
+
 The exposed apis can tested using Postman or any availble unit testcase.
 
 Changes required:
